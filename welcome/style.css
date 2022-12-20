@@ -4,11 +4,11 @@ body {
 }
 
 #jumbo {
-    margin-top: 100px;
+    margin-top: 5px;
     background-image: url(/images/japanstreet.jpg);
     background-size: 100%;
 }
 
 #jumbo1 {
-    color: grey;
+    color: whitesmoke;
 }
