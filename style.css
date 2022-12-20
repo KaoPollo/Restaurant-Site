@@ -4,7 +4,6 @@ body {
 }
 
 #jumbo {
-    margin-top: 5px;
     background-image: url(images/japanstreet.jpg);
     background-size: 100%;
     text-shadow: 2px 2px black;
